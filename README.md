@@ -1,4 +1,4 @@
-# rpi-gpio-epaper
+# rpi-gpio-epaper-7.5in
 Control e-paper modules on the Raspberry Pi GPIO with Node.js
 
 This code has been tested with the [Waveshare 7.5inch](https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(B))
