@@ -1,9 +1,7 @@
 # rpi-gpio-epaper
 Control e-paper modules on the Raspberry Pi GPIO with Node.js
 
-This code has been tested with the [Waveshare 1.54inch](http://www.waveshare.com/wiki/1.54inch_e-Paper_Module) but should be adaptable for other sizes.
-
-Coming soon...
+This code has been tested with the [Waveshare 7.5inch](https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(B))
 
 ## Usage
 
